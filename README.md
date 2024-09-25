@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @leehyell
-- 👀 I'm doing web publishing and making web designs together.
-- 📫 Please mail to hellllena1005@gmail.com, if you want to contact me.
+- 👋 Hi, I’m @lrin
+- 👀 I'm web publisher making web designs either.
+- 💯 Now I'm studying Back-end to be Full-stack Developer.
+- 📫 Please mail to helena1005@naver.com or hellllena1005@gmail.com, if you want to contact me.
 
 <!---
-leehyell/leehyell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lrin/lrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
