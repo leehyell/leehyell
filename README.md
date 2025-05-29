@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lrin
+- 👋 Hi, I’m @leehyell
 - 👀 I'm web publisher making web designs either.
 - 💯 Now I'm studying Back-end to be Full-stack Developer.
 - 📫 Please mail to helena1005@naver.com or hellllena1005@gmail.com, if you want to contact me.
